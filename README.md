@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**Secnev/Secnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋 I'm David Vences
+### I am pursuing a masters degree in Computer Sciences at the Univeristy of North Carolina at Charlotte.
+<!--**Secnev/Secnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Java for school and Swift/SwiftUI in my free time
+- 📫 How to reach me: davidvences@me.com
+- ⚡ Fun fact: I am curretly working as a structural engineer and have a BS in Civil Engineering
