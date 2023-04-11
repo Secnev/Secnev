@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🌱 I’m currently learning Java for school and Swift/SwiftUI in my free time
 - 📫 How to reach me: davidvences@me.com
 - ⚡ Fun fact: I am curretly working as a structural engineer and have a BS in Civil Engineering
+-->
+
